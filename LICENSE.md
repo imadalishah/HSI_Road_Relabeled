@@ -15,3 +15,12 @@ Under the following terms:
 
 ## 2. Original HSI-Road Dataset
 The underlying raw RGB and 25-channel NIR images originate from the original [HSI-Road dataset](https://github.com/NUST-Machine-Intelligence-Laboratory/hsi_road). Users of this dataset are advised to respect the original terms of use and cite the original HSI-Road dataset authors in addition to this work.
+
+```bibtex
+@inproceedings{lu2020HSI,
+  title     = {HSI Road: A Hyper Spectral Image Dataset for Road Segmentation},
+  author    = {Jiarou Lu and Huafeng Liu and Yazhou Yao and Shuyin Tao and Zhenmin Tang and Jianfeng Lu},
+  booktitle = {IEEE International Conference on Multimedia and Expo (ICME)},
+  year      = {2020}
+}
+
