@@ -1,4 +1,4 @@
-# 6-Class Relabelled & Registered HSI-Road Dataset
+# Extnding HSI-Road Dataset: From Binary Labels to Six-Class Surface-Oriented Taxonomy
 
 Official repository for the manuscript: **"HSI-Road Relabeled: Surface-Aware Road-Scene Segmentation"**
 
