@@ -26,12 +26,12 @@ We refine the binary road masks into six detailed surface and off-road categorie
 
 | Class ID | Class Name | Description & Scope |
 | :---: | :--- | :--- |
-| **0** | **Non-drivable** | Roadside structures, non-navigable terrain, and obstacles |
+| **0** | **Non-drivable** | Roadside structures, non-navigable terrain, vegetation, pedestrians, and obstacles |
 | **1** | **Asphalt** | Paved asphalt roadways |
 | **2** | **Concrete** | Concrete paths and road sections |
 | **3** | **Dirt** | Unpaved dirt roads, soil tracks, and gravel paths |
-| **4** | **Water** | Puddles, water bodies, and wet road surfaces |
-| **5** | **Grass** | Vegetated road margins and grassy areas |
+| **4** | **Water** | Puddles, water bodies, and open drain/ditches |
+| **5** | **Grass** | Road side drivable grassy patches |
 
 ---
 
