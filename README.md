@@ -2,7 +2,7 @@
 
 Official repository for the manuscript: **"HSI-Road Relabeled: Surface-Aware Road-Scene Segmentation"**
 
-> ⚠️ **Release Status:** The manuscript is currently under peer review. Annotation masks, registration code, model configurations, and benchmark evaluation scripts will be made publicly available upon acceptance.
+> ⚠️ **Release Status:** The manuscript is currently under peer review. Annotation masks, registration code, model configurations, and benchmark evaluation scripts will be made publicly available soon.
 
 ---
 
