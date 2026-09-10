@@ -86,7 +86,7 @@ HSI-Road Pair ──┼──► RGB_reg  (Registered Low-Res RGB:      [3, 192,
 
 ## 📖 Citation
 
-If you use this relabelled dataset, registration pipeline, or benchmark setup in your research, please cite our paper:
+If you use this relabelled dataset, registration pipeline, or benchmark setup in your research, please cite our paper and original dataset authors/contribution:
 
 ```bibtex
 @inproceedings{shah2026hsiroad6class,
@@ -101,7 +101,7 @@ If you use this relabelled dataset, registration pipeline, or benchmark setup in
 
 ```
 
-Please also cite the original HSI-Road dataset paper:
+Original HSI-Road Dataset:
 
 ```bibtex
 @inproceedings{lu2020HSI,
