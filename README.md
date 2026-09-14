@@ -1,6 +1,6 @@
 # Extending HSI-Road Dataset: From Binary Labels to Six-Class Surface-Oriented Taxonomy
 
-Official repository for the manuscript: **"HSI-Road Relabeled: Surface-Aware Road-Scene Segmentation"**
+Official repository for the manuscript: **"[HSI-Road Relabeled: Surface-Aware Road-Scene Segmentation](https://doi.org/10.48550/arXiv.2609.12151)"**
 
 > ⚠️ **Release Status:** The manuscript is currently under peer review. Annotation masks, registration code, model configurations, and benchmark evaluation scripts will be made publicly available soon.
 
