@@ -96,7 +96,7 @@ If you use this relabelled dataset, registration pipeline, or benchmark setup in
   volume={},
   number={},
   pages={1-5},
-  journal={arXiv preprint arXiv:2608.XXXXX},
+  journal={arXiv preprint arXiv:[2609.12151](https://doi.org/10.48550/arXiv.2609.12151)},
 }
 
 ```
