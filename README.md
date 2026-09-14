@@ -89,14 +89,13 @@ HSI-Road Pair ──┼──► RGB_reg  (Registered Low-Res RGB:      [3, 192,
 If you use this relabelled dataset, registration pipeline, or benchmark setup in your research, please cite our paper and original dataset authors/contribution:
 
 ```bibtex
-@inproceedings{shah2026hsiroad6class,
-  author={Shah, Imad Ali and Li, Jiarong and Glavin, Martin and Jones, Edward and Ward, Enda and Deegan, Brian},
-  title={HSI-Road Relabeled: Surface-Aware Road-Scene Segmentation}, 
-  year={2026},
-  volume={},
-  number={},
-  pages={1-5},
-  journal={arXiv preprint arXiv:[2609.12151](https://doi.org/10.48550/arXiv.2609.12151)},
+@article{shah2026hsiroad6class,
+  author    = {Shah, Imad Ali and Li, Jiarong and Glavin, Martin and Jones, Edward and Ward, Enda and Deegan, Brian},
+  title     = {HSI-Road Relabeled: Surface-Aware Road-Scene Segmentation},
+  journal   = {arXiv preprint arXiv:2609.12151},
+  year      = {2026},
+  doi       = {10.48550/arXiv.2609.12151},
+  url       = {https://doi.org/10.48550/arXiv.2609.12151}
 }
 
 ```
