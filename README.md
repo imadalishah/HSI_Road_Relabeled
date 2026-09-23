@@ -81,8 +81,8 @@ HSI-Road Pair ──┼──► RGB_reg  (Registered Low-Res RGB:      [3, 192,
 
 ## 📜 License
 
-* The **6-class annotations, registration pipeline, and code** in this repository are licensed under the [CC BY-NC 4.0](LICENSE.md).
-* The **original raw RGB and 25-channel NIR images** belong to the original [HSI-Road dataset](https://github.com/NUST-Machine-Intelligence-Laboratory/hsi_road).
+* The **original raw RGB and 25-channel NIR images along with their masks** belong to the original [HSI-Road dataset](https://github.com/NUST-Machine-Intelligence-Laboratory/hsi_road). Please adhere to their outlined license.
+* The **6-class annotations (for original RGB and RGB+NIR aligned), registration pipeline, and allied code/data** in this repository are licensed under the [CC BY-NC 4.0](LICENSE.md).
 
 ---
 
