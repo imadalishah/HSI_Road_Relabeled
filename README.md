@@ -2,7 +2,7 @@
 
 Official repository for the manuscript: **"[HSI-Road Relabeled: Surface-Aware Road-Scene Segmentation](https://doi.org/10.48550/arXiv.2609.12151)"**
 
-**Important**: Usage of the dataset annotations must adhere to the [original HSI-Road](https://github.com/NUST-Machine-Intelligence-Laboratory/hsi_road) non-commercial and distribution license.
+**Important**: Usage of the dataset (in any form or shape) must adhere to the [original HSI-Road](https://github.com/NUST-Machine-Intelligence-Laboratory/hsi_road) non-commercial and distribution license.
 
 > ⚠️ **Release Status:** The manuscript is currently under peer review. Annotation masks, registration code, model configurations, and benchmark evaluation scripts will be made publicly available soon.
 
